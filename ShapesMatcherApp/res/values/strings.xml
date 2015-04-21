@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shapes Matcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="square">Square</string>
+    <string name="circle">Circle</string>
+    <string name="triangle">Triangle</string>
+    <string name="select">Select</string>
+    <string name="line">Line</string>
+    <string name="rectangle">Line</string>
+    <string name="timer">timer</string>
+    <string name="score">score</string>
+
+</resources>
