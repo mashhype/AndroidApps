@@ -2,7 +2,7 @@
 
 Two basic games here: 
 
-1. Shapes Matching game - This game demonstrates how to use touch events, android graphics library, 
+1. Shapes Matching game - This game demonstrates how to use touch events and the android graphics library, 
 The game works as follows:
 Initialize shapes on a grid  that you can move from one cell to another.  Shapes swap positions when shape x intersects shape y.  Clicking in the grid but not on the shape shuffles the shapes.  Clicking on a shape highlights all of the shapes that are the same.  
 
